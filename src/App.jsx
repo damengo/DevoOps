@@ -15,25 +15,25 @@ function App() {
 
     <div>
 
-      <p style={{color:'red', width:'100px', height:'100px', background:'blue'}}>
+      <p style={{color:'red', width:'300px', height:'200px', background:'blue'}}>
 
         "Never give up on your dreams, even when life gets difficult."
 
       </p>
 
-      <p style={{color:'white', width:'150px', height:'150px', background:'black'}}>
+      <p style={{color:'white', width:'300px', height:'200px', background:'black'}}>
 
         "Believe in yourself, work hard every day, and never let anyone tell you that your dreams are impossible to achieve."
 
       </p>
 
-      <p style={{color:'black', width:'200px', height:'200px', background:'white'}}>
+      <p style={{color:'black', width:'300px', height:'200px', background:'white'}}>
 
         "Success does not come from what you do occasionally. It comes from what you do consistently. Every small step you take today brings you closer to the future you want."
 
       </p>
 
-      <p style={{color:'blue', width:'250px', height:'250px', background:'green'}}>
+      <p style={{color:'blue', width:'300px', height:'200px', background:'green'}}>
 
         "Life is full of challenges, opportunities, and unexpected moments. Sometimes you will succeed, and sometimes you will fail, but every experience teaches you something valuable. Never stop learning, never stop growing, and always remember that your future depends on the decisions and actions you make today."
 
